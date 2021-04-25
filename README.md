@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farah AIT ELAHMADI
 - 👀 I’m interested in PHP , Laravel , JavaScript, Angular , NodeJS, Java .
-- 🌱 I’m currently learning JavaEE 
-- 💞️ I’m looking for a two month internship (May to July 2021).
+- 🌱 I’m currently learning JavaEE ( Servlet, JSP ,JSTL, JSF,JPA,Hibernite )
+- 💞️ I’m looking for a two month internship (24 May to July 2021).
 - 📫 How to reach me :
 
   * Email    : farahaitelahmadi@gmail.com
