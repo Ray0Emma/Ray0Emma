@@ -4,7 +4,7 @@
 - 💞️ I’m on internship ( as full-stack developer) and looking for more opportunities.
 - 📫 How to reach me :
 
-  * Twitter  : https://twitter.com/FRay81194
+  * Twitter  : https://twitter.com/ahmadif__
   * Linkedin : https://www.linkedin.com/in/farah-ahmadi
   * Email    : farahaitelahmadi@gmail.com
 
