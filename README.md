@@ -24,7 +24,7 @@
   <a/>
 <p/>
 
-<h1><h1/>
+<!-- <h1><h1/>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
@@ -33,7 +33,7 @@
 <br><br><br><br><br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ray0emma&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ray0emma&theme=gruvbox&hide_border=true&area=true) -->
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me</b></i></p>
