@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center">
-  I am Farah AIT ELAHMADI, graduated with a Bachelor's degree specialised in Web Programming and Technologies, and supporter of the open-source  movement philosophy.<br>
-  I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
+  I am Farah AIT ELAHMADI, I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
   I think it's essential always to keep professional and surround yourself with good people,<br> work hard, and be nice to everyone.
 <p/>
 <p align="center">
