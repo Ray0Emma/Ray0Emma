@@ -4,10 +4,10 @@
   
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
   
 [![Farah Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23FE19AA&center=true&vCenter=true&lines=Hi%2C+It's+Farah!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Lover)](https://git.io/typing-svg)
-</h1>
+</h1> -->
 
 <p align="center">
   I am Farah AIT ELAHMADI, I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
