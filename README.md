@@ -6,8 +6,18 @@
 
 
 <p align="center">
-  I am Farah AIT ELAHMADI, I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
-  I think it's essential always to keep professional and surround yourself with good people,<br> work hard, and be nice to everyone.
+Hello World!
+<p/>
+<p align="center">
+I am Farah AIT ELAHMADI, a highly motivated, dynamic, persevering, and rigorous person. I'm
+Software Engineering Grad 2023 with interests in Web Development and Machine Learning roles.
+<p/>
+<p align="center">
+Software engineering is where I feel comfortable and I like to invest all my time in unleashing my
+limitless creativity.
+<p/>
+<p align="center">
+I'm always ready to learn new skills and look for better opportunities.
 <p/>
 <p align="center">
   <a href="mailto:farahaitelahmadi@gmail.com">
