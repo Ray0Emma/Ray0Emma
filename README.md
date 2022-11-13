@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://farahelahmadi.me">
+    <a href="https://farahelahmadi.vercel.app/">
        <img  src="https://user-images.githubusercontent.com/70212296/145826064-74123dff-e699-4fa5-9f7a-779bcad0f2f1.gif" alt="banner">
     <a/>
 </h1>
@@ -29,7 +29,7 @@ I'm always ready to learn new skills and look for better opportunities.
   <a href="https://twitter.com/ahmadiF__">
      <img  src="https://img.shields.io/badge/twitter-04001E?style=for-the-badge&logo=twitter&logoColor=FE19AA" alt="twitter">
   <a/>&nbsp;
-  <a href="https://farahelahmadi.me">
+  <a href="https://farahelahmadi.vercel.app/">
      <img  src="https://img.shields.io/badge/website-04001E?style=for-the-badge&logo=about.me&logoColor=FE19AA" alt="website">
   <a/>
 <p/>
