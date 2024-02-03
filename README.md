@@ -10,7 +10,7 @@ Hello World!
 <p/>
 <p align="center">
 I am Farah AIT ELAHMADI, a highly motivated, dynamic, persevering, and rigorous person. I'm
-Software Engineering Grad 2023 with interests in Web Development and Machine Learning roles.
+Software Engineering with interests in Web Development and DevOps.
 <p/>
 <p align="center">
 Software engineering is where I feel comfortable and I like to invest all my time in unleashing my
